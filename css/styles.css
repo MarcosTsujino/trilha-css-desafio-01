@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.banner-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo img {
+    max-width: 100px;
+    height: auto;
+}
+
+.banner h1 {
+    margin: 10px 0;
+    font-size: 2rem;
+}
