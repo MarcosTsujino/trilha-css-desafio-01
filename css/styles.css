@@ -100,21 +100,22 @@ section h2 {
     position: absolute;
     top: 150px;
     left: 20px;
-    background-color: rgba(255, 255, 255, 0.8);
     padding: 10px;
     border-radius: 8px;
+    
 }
 
 .text-overlay p {
-    margin: 0;
-    color: white;
+    margin: 10px;
     text-shadow: 2px 2px 4px #33a8db;
     text-transform: lowercase;
+    font-size: 2em;
+    padding: 100px;
 }
 
 .transform-content img {
     width: 100%;
-    height: auto;
+    height: 20%;
     /*border-radius: 8px;*/
     margin-top: 20px;
 }
